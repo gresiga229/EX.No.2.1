@@ -1,5 +1,5 @@
 # EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
-## Date:
+## Date:14/10/26
 
 ## AIM
 To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
@@ -14,6 +14,8 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 Step 1: Lower body
 
 Click Sketch → Create Sketch and select the Front (XZ) plane.
+<img width="216" height="171" alt="Screenshot 2026-11-11 204524 - Copy (2)" src="https://github.com/user-attachments/assets/e2845861-7846-4ddc-86e6-df14fa00ae0f" />
+
 Choose Sketch → Rectangle → Center Rectangle.
 Click the origin to place the centre, then press Tab and enter 100 mm (width) and 50 mm (height).
 Click to place it, then click Finish Sketch.
@@ -27,17 +29,25 @@ Step 2: Upper top block
 Step 3: Lens
 9. Start a new sketch and select the front face of the lower body.
 10. Choose Sketch → Circle → Center Circle. Place the centre near the middle of the front face, as shown in the drawing.
+<img width="517" height="395" alt="Screenshot 2026-11-11 204552 - Copy" src="https://github.com/user-attachments/assets/7524eadf-65cd-4cf2-9f2f-c8cdfdd7d047" />
+
 11. Press Tab, enter diameter 50 mm, and click to place it.
 12. Finish the sketch, then Extrude the circle by 20 mm, outward from the front face.
+13. 
+<img width="460" height="617" alt="Screenshot 2026-11-11 212828" src="https://github.com/user-attachments/assets/7febd217-2023-4d80-b551-6dd605cb4600" />
 
 Step 4: Small square block (top left)
 13. Start a sketch on the top face of the upper block.
 14. Use Line or Rectangle to draw a 15 × 15 mm square. Use the Dimension tool to place it 15 mm from the left edge and 15 mm from the back edge, as marked.
+<img width="542" height="767" alt="Screenshot 2026-11-11 204541" src="https://github.com/user-attachments/assets/b6376733-9d08-4987-825d-99a856c70704" />
+
 15. Finish the sketch and extrude it 5 mm.
 
 Step 5: Slanted block (viewfinder)
 16. Start a sketch on the side plane (YZ) and use Line to draw the side profile of the block. Make the slanted line 45° and the block 10 mm high.
 17. Finish the sketch and extrude it to the width shown in the drawing, which is 30 mm from the 30 mark in the top view.
+<img width="436" height="421" alt="Screenshot 2026-11-11 210017" src="https://github.com/user-attachments/assets/1a60c3aa-e7b2-41a0-b167-be0aed8e8eaa" />
+
 
 Step 6: Round button (top right)
 18. Start a sketch on the top face of the upper block.
